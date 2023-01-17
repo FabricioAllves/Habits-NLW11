@@ -23,7 +23,7 @@ Aplicativo para gerenciar bons habitos
 - [ ] Typescript
 - [ ] Back-end (Node.js)
 - [ ] Prisma
-- [ ] Festify
+- [ ] Fastify
 - [ ] ...
 
 
