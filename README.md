@@ -4,7 +4,7 @@
  <img src="https://img.shields.io/static/v1?label=Ignite&message=ReactNative&color=5636D3&labelColor=0A1033" alt="NLW 06" />
 </p>
 
-<h1 align="center">Projeto <i>Hábits</i></h1>
+<h1 align="center">Projeto <i>Habits</i></h1>
 <h4 align="center">NLW 11 - Setup</h4>
 
 
@@ -12,7 +12,7 @@
 
 ## 💻 Sobre o Projeto
 <!-- OQUE E´? -->
-Aplicativo para gerenciar bons hábitos
+Aplicativo para gerenciar bons habitos
 
 <!-- QUAIS TECNOLOGIA USEI? -->
 ## ✨ Tecnologias e bibliotecas utilizadas
@@ -32,7 +32,7 @@ Aplicativo para gerenciar bons hábitos
 <!-- QUAL É O PROBLEMA QUE ESSE PROJETO RESOLVE E OQUE ELE FAZ? -->
 ## :hammer_and_wrench: Features 
 
-- [ ] Registrar seus hábitos diários e ao decorrer do tempo por meio da linha do tempo ver com qual intensidade foi feito aquele hábito.
+- [ ] Registrar seus hábitos diários e ao decorrer do tempo por meio da linha do tempo ver com qual intensidade foi feito aquele habito.
 
 
 
