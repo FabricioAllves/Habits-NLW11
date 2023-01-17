@@ -32,7 +32,7 @@ Aplicativo para gerenciar bons habitos
 <!-- QUAL É O PROBLEMA QUE ESSE PROJETO RESOLVE E OQUE ELE FAZ? -->
 ## :hammer_and_wrench: Features 
 
-- [ ] Registrar seus hábitos diários e ao decorrer do tempo por meio da linha do tempo ver com qual intensidade foi feito aquele habito.
+- [ ] Registrar seus habitos diários e por meio da linha do tempo ver com qual intensidade foi feito aquele habito.
 
 
 
