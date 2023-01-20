@@ -70,6 +70,7 @@ export async function appRoutes(app: FastifyInstance) {
     return {
       possibleHabits,
       completedHabits,
+      
     }
   })
 }
